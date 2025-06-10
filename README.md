@@ -1,12 +1,17 @@
-## Hi there 👋
+<!-- 헤더 -->
+
+<div align=center>
+<!--소개-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6B9&height=150&section=header" />
+
+## Introduction :raised_hands:
+안녕하세요, 성장형 개발자 최소윤입니다.😎
+<br/><br/>
 
 <!-- header, footer
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
  -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spac2ship)](https://github.com/anuraghazra/github-readme-stats)
 <details>
@@ -24,6 +29,11 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6B9&height=150&section=footer" />
+</div>
+
+
 <!--
 **spac2ship/spac2ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
